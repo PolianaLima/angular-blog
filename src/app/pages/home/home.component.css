@@ -1,7 +1,12 @@
 .container_articles{
   margin-top: 50px;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: center;
+  width: 100%;
 }
 
+.articles_others{
+  display: flex;
+  width: 100%;
+}

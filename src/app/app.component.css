@@ -1,5 +1,19 @@
 header{
   display: flex;
   justify-content: center;
-  margin-top: 20px;
+  background-color: #000;
+  width: 100%;
+
+}
+.container_header{
+  width: 75%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+
+.app_container{
+  width: 75%;
+  margin: 0 auto;
 }
